@@ -49,7 +49,7 @@ Ferramentas: Git, GitHub, VS Code
     width="60px"
     alt="css3">
         
-(https://media.giphy.com/media/r1IMdmkhNDG5W/giphy.gif)
+
 
 <!-- FOOTER -->
 <div align="center" width="100">
