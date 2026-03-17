@@ -7,7 +7,7 @@
 
 <!-- STACK -->
 <div align="center" width="100">
-  <h1>Stack</h1>
+  <h1>Linguagens</h1>
   
   <!-- Languages -->
   </br>
