@@ -4,7 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Luan%20Gasparotto%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
+Sou um desenvolvedor em formação, interessado em tecnologia e resolução de problemas. Atualmente, estou focando meus estudos em desenvolvimento web e automação.
 
+🛠️ Tecnologias e Ferramentas
+Linguagens: Python, JavaScript
+
+Web: HTML5, CSS3
+
+Ferramentas: Git, GitHub, VS Code
 <!-- STACK -->
 <div align="center" width="100">
   <h1>Linguagens</h1>
