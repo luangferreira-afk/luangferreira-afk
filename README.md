@@ -19,11 +19,7 @@ Aperfeiçoamento em lógica de programação.
 
 Desenvolvimento de interfaces responsivas.
 
-📫 Contacto
 
-LinkedIn
-
-E-mail
 <!-- STACK -->
 <div align="center" width="100">
   <h1>Linguagens</h1>
