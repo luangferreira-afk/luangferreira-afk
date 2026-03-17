@@ -42,7 +42,7 @@
     width="60px"
     alt="css3">
         
-![CR7 Gif](https://media.giphy.com/media/r1IMdmkhNDG5W/giphy.gif)
+(https://media.giphy.com/media/r1IMdmkhNDG5W/giphy.gif)
 
 <!-- FOOTER -->
 <div align="center" width="100">
