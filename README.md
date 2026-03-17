@@ -42,11 +42,7 @@
     width="60px"
     alt="css3">
         
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-    width="60px"
-    alt="sass">
-        
+![CR7 Gif](https://media.giphy.com/media/r1IMdmkhNDG5W/giphy.gif)
 
 <!-- FOOTER -->
 <div align="center" width="100">
